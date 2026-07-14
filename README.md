@@ -25,6 +25,8 @@ A powerful custom integration for Home Assistant adding game detection, battery 
 ### 🛠️ Other Projects
 | Project | Description |
 | ------- | ----------- |
+| 🔌 [**ESPHome PC Controller**](https://github.com/Zedan2552000/esphome-pc-controller) | ESPHome config to remotely control your PC power state from HA. |
+
 | 🎮 [**HA Gaming Dashboard**](https://github.com/Zedan2552000/ha-gaming-dashboard) | A sleek Lovelace dashboard tailored for gamers (LG webOS & PS4). |
 
 | 💡 [**HA Blueprints**](https://github.com/Zedan2552000/ha-blueprints) | A collection of advanced automation blueprints for Home Assistant (e.g., LG webOS Cinema Mode). |
