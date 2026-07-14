@@ -25,6 +25,8 @@ A powerful custom integration for Home Assistant adding game detection, battery 
 ### 🛠️ Other Projects
 | Project | Description |
 | ------- | ----------- |
+| 💡 [**HA Blueprints**](https://github.com/Zedan2552000/ha-blueprints) | A collection of advanced automation blueprints for Home Assistant (e.g., LG webOS Cinema Mode). |
+
 | 🤖 [**AI PR Reviewer**](https://github.com/Zedan2552000/ai-pr-reviewer) | A zero-dependency GitHub Action that uses Gemini AI to review Pull Requests. |
 | ✨ [**AI Commit Gen**](https://github.com/Zedan2552000/ai-commit-gen) | A smart CLI tool that writes perfect commit messages for you using AI. |
 | 🎓 [**Student Discount Radar**](https://github.com/Zedan2552000/student-discount-radar) | Chrome extension that alerts students about online discounts. |
